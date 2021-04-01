@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibraryManagement.Commons.Manager" Collapsed="true">
+    <Position X="8" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commons\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.DAOs.AuthenManager" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>DAOs\AuthenManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.DAOs.BookManager" Collapsed="true">
+    <Position X="7" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBBAAAAAAAAAAAAAACAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAOs\BookManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.DAOs.BorrowManager" Collapsed="true">
+    <Position X="9" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAEAAAAAEAAAAAAAAAAgA=</HashCode>
+      <FileName>DAOs\BorrowManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.DAOs.UserManager" Collapsed="true">
+    <Position X="11" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAEAAAAAAAAAQAAAAAgEAAAAAAAAAA=</HashCode>
+      <FileName>DAOs\UserManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.DTOs.Book" Collapsed="true">
+    <Position X="7" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAQAAAAAgAAAQAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>DTOs\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.DTOs.Borrow" Collapsed="true">
+    <Position X="9" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAACAAAAAEACAAAAAAAAAAAAAAAAACAAgAAAgAAAAA=</HashCode>
+      <FileName>DTOs\Borrow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.DTOs.Role" Collapsed="true">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>DTOs\Role.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.DTOs.User" Collapsed="true">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEACAAAAAAAAAAAAgAAAAAAAACAQAAAAAAAAA=</HashCode>
+      <FileName>DTOs\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.Presenters.AuthenPresenter" Collapsed="true">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAAgAIAAAAAAAgAAAAAAAAAAgAAAAAABAAAAAA=</HashCode>
+      <FileName>Presenters\AuthenPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.Presenters.BookPresenter" Collapsed="true">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAAAAAAAAgAAAAAAAAAAAAAAgAAAAEAAAgAJAAAAAA=</HashCode>
+      <FileName>Presenters\BookPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.Presenters.BorrowPresenter" Collapsed="true">
+    <Position X="9" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAgIAIAAAEAAAAAAQIAAA=</HashCode>
+      <FileName>Presenters\BorrowPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.Presenters.UserPresenter" Collapsed="true">
+    <Position X="11" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAIAACAAAIAAAgAAAAAAAAAQAAAAAAAAAIAIQAA=</HashCode>
+      <FileName>Presenters\UserPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagement.Views.ProfileForm" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAQAJ0ACGIBFACggCAAqgCgABAEIBCAQACAAAAjQA=</HashCode>
+      <FileName>Views\ProfileForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.653" />
+  </Class>
+  <Class Name="LibraryManagement.Views.LoginForm" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAIDgACAJAhAAAACAAAACAAAADIACAAACACBAgAA=</HashCode>
+      <FileName>Views\LoginForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryManagement.Views.RegisterForm" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAACBwACGIAhACAgCCAiACgAAAFIICAQACACAggEA=</HashCode>
+      <FileName>Views\RegisterForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryManagement.Views.LibrarianForm" Collapsed="true">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkBAGCIABCQIJJRUgICgQmAiABAQoAcEAAABhWICAQY=</HashCode>
+      <FileName>Views\LibrarianForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryManagement.Views.StudentForm" Collapsed="true">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBAAAAAgCAIJJQAABCAACAiABAQIAEAAAQBAWICAQA=</HashCode>
+      <FileName>Views\StudentForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryManagement.Views.AdminForm" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>tggAQAJ1BLGIZpAQgACAAAgSAAAQtIACISAAQWAGiQY=</HashCode>
+      <FileName>Views\AdminForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryManagement.Views.BorrowingForm" Collapsed="true">
+    <Position X="15.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACBIBBAAAACAAAACAAAAAACAAAAAAAAAAwA=</HashCode>
+      <FileName>Views\BorrowingForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryManagement.Views.LendBookForm" Collapsed="true">
+    <Position X="13.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAACAAABCgIBBZEBCCAAIACIAAAAAHAAAAMAwIAAQA=</HashCode>
+      <FileName>Views\LendBookForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryManagement.Views.RecieveBookForm" Collapsed="true">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAICgIBB5EAACAAIACAAAAQADAAgAIAQIAAQA=</HashCode>
+      <FileName>Views\RecieveBookForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="LibraryManagement.Commons.IActionForm" Collapsed="true">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Commons\IActionForm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LibraryManagement.Commons.IDashboardForm" Collapsed="true">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commons\IDashboardForm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LibraryManagement.Commons.IAdminForm" Collapsed="true">
+    <Position X="9.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEACAAAAAAAAAAAAgQAAAAAAACAQAAAAAAAAA=</HashCode>
+      <FileName>Commons\IAdminForm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LibraryManagement.Commons.IBorrowingForm" Collapsed="true">
+    <Position X="15.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commons\IBorrowingForm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LibraryManagement.Commons.ILendBookForm" Collapsed="true">
+    <Position X="13.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAACAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAgAAAAA=</HashCode>
+      <FileName>Commons\ILendBookForm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LibraryManagement.Commons.ILibrarianForm" Collapsed="true">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAQAAAAAgAAAQAAAAAAAAAEAAAAAgAAAAAA=</HashCode>
+      <FileName>Commons\ILibrarianForm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LibraryManagement.Commons.ILoginForm" Collapsed="true">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Commons\ILoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LibraryManagement.Commons.IProfileForm" Collapsed="true">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEACAAAAAAAAAAAAgAgAAAAAACAQAAAAAAAAA=</HashCode>
+      <FileName>Commons\IProfileForm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LibraryManagement.Commons.IRecieveBookForm" Collapsed="true">
+    <Position X="12" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Commons\IRecieveBookForm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LibraryManagement.Commons.IRegisterForm" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAgAAAAAACAQAAAAAAAAA=</HashCode>
+      <FileName>Commons\IRegisterForm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LibraryManagement.Commons.IStudentForm" Collapsed="true">
+    <Position X="6.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Commons\IStudentForm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LibraryManagement.Commons.ISimpleForm" Collapsed="true">
+    <Position X="13.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commons\ISimpleForm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

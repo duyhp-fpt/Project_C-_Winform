@@ -1,0 +1,50 @@
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\bin\Debug\LibraryManagement.exe.config
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\bin\Debug\LibraryManagement.exe
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\bin\Debug\LibraryManagement.pdb
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\bin\Debug\FireSharp.dll
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\bin\Debug\RestSharp.dll
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\bin\Debug\RestSharp.xml
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.AdminForm.resources
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.BorrowingForm.resources
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.LendBookForm.resources
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.LibrarianForm.resources
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.LoginForm.resources
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.ProfileForm.resources
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.RecieveBookForm.resources
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.RegisterForm.resources
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.StudentForm.resources
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.csproj.CopyComplete
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.exe
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.pdb
+C:\Users\thucpn\source\repos\LibraryManagement\LibraryManagement.Main\obj\Debug\LibraryManagement.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\bin\Debug\LibraryManagement.exe.config
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\bin\Debug\LibraryManagement.exe
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\bin\Debug\LibraryManagement.pdb
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\bin\Debug\FireSharp.dll
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.AdminForm.resources
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.BorrowingForm.resources
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.LendBookForm.resources
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.LibrarianForm.resources
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.LoginForm.resources
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.ProfileForm.resources
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.RecieveBookForm.resources
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.RegisterForm.resources
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.Views.StudentForm.resources
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.exe
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.pdb
+C:\Users\Administrator\Desktop\PRN292_Group2_SE1431__LibraryManagement\Source Code\LibraryManagement.Main\obj\Debug\LibraryManagement.csprojAssemblyReference.cache
