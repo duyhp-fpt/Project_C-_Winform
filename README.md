@@ -10,4 +10,4 @@
 ### Connect me via:
 [facebook_Huynh Phuc Duy](https://www.facebook.com/duyhp.se/)
 
-#### © 2021 by duyhp-fpt
+#### © 2021 by duyhp-fpt and my friends
