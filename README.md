@@ -1,4 +1,4 @@
-# Welcome to Project_PRN292_Winform ( Library_Manager)
+## Welcome to Project_PRN292_Winform ( Library_Manager)
 ## Including basic functions:
 ### - Guest: Login, Register
 ### - Authenticated: View profile, Logout
